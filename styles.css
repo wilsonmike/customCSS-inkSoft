@@ -3,9 +3,14 @@
         width: 100%;
         background-size: contain;
         background-repeat: no-repeat;
+        background-image: url("https://lh3.googleusercontent.com/dhUN0uvKGQd-PQ4hd3j4HAg9IHwtT--K-CN1CXR5T2_9lQjqlrOUjiZ8seyFPLJRHMsGthh3LujUzaNJXlcwxiIlgoG7XFYyNKYwVMVQx6k55cPUAHgRjBwuguD7YveAwtPD3Rgm=w2400") !important;
     }
     .ink-slide {
         background-size: contain;
         background-repeat: no-repeat;
+        background-image: url("https://lh3.googleusercontent.com/dhUN0uvKGQd-PQ4hd3j4HAg9IHwtT--K-CN1CXR5T2_9lQjqlrOUjiZ8seyFPLJRHMsGthh3LujUzaNJXlcwxiIlgoG7XFYyNKYwVMVQx6k55cPUAHgRjBwuguD7YveAwtPD3Rgm=w2400") !important;
+    }
+    .slideshow-wrapper {
+        height: 300px !important;
     }
   }
