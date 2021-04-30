@@ -8,17 +8,28 @@ ul {
     list-style-type: none;
     margin-left: 8px;
 }
+p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.ash-link {
+    text-decoration: none;
+    color: black;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
 
 .btn-link {
     text-decoration: none;
     color: black;
 }
-.accordion {
-    width: 20%;
-}
-.listy {
-    display: flex;
-}
+
 @media only screen and (max-width: 600px) {
     .carousel-item {
         width: 100%;
