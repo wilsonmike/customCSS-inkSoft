@@ -1,7 +1,24 @@
 .container {
     font-family: 'Quicksand', sans-serif;
 }
+ul {
+    list-style-type: none;
+}
+.fr-view ul, .fr-view ul li {
+    list-style-type: none;
+    margin-left: 8px;
+}
 
+.btn-link {
+    text-decoration: none;
+    color: black;
+}
+.accordion {
+    width: 20%;
+}
+.listy {
+    display: flex;
+}
 @media only screen and (max-width: 600px) {
     .carousel-item {
         width: 100%;
