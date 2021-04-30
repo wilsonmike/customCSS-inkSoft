@@ -17,6 +17,46 @@ p {
     text-decoration: none;
     color: black;
 }
+.sprout {
+    height: 30px;
+    width: 30px;
+    margin: 0 5px;
+    padding: 0;
+}
+
+.fr-view img.fr-dib {
+    margin: 0 5px;
+    display: block;
+    float: none;
+    vertical-align: top;
+}
+.started {
+    display: flex;
+    align-items: center;
+}
+.h5, .h6, h5, h6 {
+    font-weight: 400;
+    line-height: 1.1;
+    margin-top: 0;
+    margin-bottom: 0 !important;
+}
+
+.grid-container[_ngcontent-oko-c443] {
+    min-height: 2rem;
+    padding-bottom: 0;
+    padding-top: 1rem;
+}
+
+.down-arrow {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.down-arrow-img {
+    height: 40px;
+    width: 40px;
+}
 
 hr {
     margin-top: 1rem;
@@ -28,6 +68,9 @@ hr {
 .btn-link {
     text-decoration: none;
     color: black;
+}
+.h-list {
+    font-weight: bold;
 }
 
 @media only screen and (max-width: 600px) {
