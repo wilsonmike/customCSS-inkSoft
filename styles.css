@@ -72,6 +72,12 @@ hr {
 .h-list {
     font-weight: bold;
 }
+.started {
+    font-size: 1.5rem;
+}
+.list-item-bullets {
+    font-size: 1rem;
+}
 
 @media only screen and (max-width: 600px) {
     .carousel-item {
@@ -87,5 +93,8 @@ hr {
     }
     .slideshow-wrapper {
         height: 300px !important;
+    }
+    .list-item-bullets {
+        font-size: 1rem;
     }
   }
